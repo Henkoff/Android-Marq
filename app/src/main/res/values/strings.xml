@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marquezine Planejados</string>
+    <string name="new_costumer">Cadastro de Corretores</string>
+    <string name="registration_broker">Cadastro de Corretores</string>
+    <string name="name">Nome:</string>
+    <string name="telephone">Telefone:</string>
+    <string name="send">Enviar</string>
+    <string name="enter_name">O nome é obrigatório!</string>
+    <string name="enter_email">O email é obrigatório!</string>
+    <string name="customer_mail">Email:</string>
+    <string name="enter_telephone">O telefone é obrigatório!</string>
+</resources>
